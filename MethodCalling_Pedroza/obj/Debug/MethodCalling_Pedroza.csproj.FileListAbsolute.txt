@@ -1,0 +1,8 @@
+D:\VS Projects\MethodCalling_Pedroza\bin\Debug\MethodCalling_Pedroza.exe.config
+D:\VS Projects\MethodCalling_Pedroza\bin\Debug\MethodCalling_Pedroza.exe
+D:\VS Projects\MethodCalling_Pedroza\bin\Debug\MethodCalling_Pedroza.pdb
+D:\VS Projects\MethodCalling_Pedroza\obj\Debug\MethodCalling_Pedroza.csproj.AssemblyReference.cache
+D:\VS Projects\MethodCalling_Pedroza\obj\Debug\MethodCalling_Pedroza.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\MethodCalling_Pedroza\obj\Debug\MethodCalling_Pedroza.csproj.CoreCompileInputs.cache
+D:\VS Projects\MethodCalling_Pedroza\obj\Debug\MethodCalling_Pedroza.exe
+D:\VS Projects\MethodCalling_Pedroza\obj\Debug\MethodCalling_Pedroza.pdb
